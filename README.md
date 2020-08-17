@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on making companies better data citizens at Legal Monster ApS
+- 🌱 I’m currently learning Golang
