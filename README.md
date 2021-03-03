@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on making companies better data citizens at Legal Monster ApS
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working at Everphone as a Full Stack engineer
+- 🌱 My current stack is: Golang, React, Typescript and Postgresql.
+- 📫 How to reach me: on my twitter @mbvisti or send me a mail through my site: mortenvistisen.com
