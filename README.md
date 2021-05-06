@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at Everphone as a Full Stack engineer
-- 🌱 My current stack is: Golang, React, Typescript and Postgresql.
-- 📫 How to reach me: on my twitter @mbvisti or send me a mail through my site: mortenvistisen.com
+- 💻 My current stack is: Golang, React, Typescript and Postgresql
+- 🌱 I’m currently learning rust
+- 📫 How to reach me: on my twitter @mbvisti or send me a mail through my site: https://mortenvistisen.com
