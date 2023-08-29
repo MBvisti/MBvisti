@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a contractor
-- 💻 My current stack is: Golang, Svelte, Typescript and Postgresql
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working as a contractor, specializing in Go
 - 📫 How to reach me: on my twitter @mbvisti
